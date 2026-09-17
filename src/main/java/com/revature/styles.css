@@ -37,11 +37,11 @@ Class Selector Specificity:
  */
 #low-specificity
 {
-   color: blue;
+   color: #1297B8;
    font-size: 14px;
    font-weight: normal;
 }
-#low-specificity
+#high-specificity
 {
    color: red;
    font-size: 16px;
